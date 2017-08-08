@@ -1,0 +1,9 @@
+E:\Project Visual 2012\C #\Winform\Bai Thi c sharp\Bai Thi c sharp\bin\Debug\Bai Thi c sharp.exe.config
+E:\Project Visual 2012\C #\Winform\Bai Thi c sharp\Bai Thi c sharp\bin\Debug\Bai Thi c sharp.exe
+E:\Project Visual 2012\C #\Winform\Bai Thi c sharp\Bai Thi c sharp\bin\Debug\Bai Thi c sharp.pdb
+E:\Project Visual 2012\C #\Winform\Bai Thi c sharp\Bai Thi c sharp\obj\Debug\Bai_Thi_c_sharp.Form1.resources
+E:\Project Visual 2012\C #\Winform\Bai Thi c sharp\Bai Thi c sharp\obj\Debug\Bai_Thi_c_sharp.Properties.Resources.resources
+E:\Project Visual 2012\C #\Winform\Bai Thi c sharp\Bai Thi c sharp\obj\Debug\Bai Thi c sharp.csproj.GenerateResource.Cache
+E:\Project Visual 2012\C #\Winform\Bai Thi c sharp\Bai Thi c sharp\obj\Debug\Bai Thi c sharp.exe
+E:\Project Visual 2012\C #\Winform\Bai Thi c sharp\Bai Thi c sharp\obj\Debug\Bai Thi c sharp.pdb
+E:\Project Visual 2012\C #\Winform\Bai Thi c sharp\Bai Thi c sharp\obj\Debug\Bai Thi c sharp.csprojResolveAssemblyReference.cache
